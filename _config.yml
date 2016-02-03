@@ -1,0 +1,28 @@
+name: Wildlifeinprint
+favicon: null
+layout_spectrum: 0.782818101812154
+typography_spectrum: 0.34267874248325825
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7655229156371206
+  lightness: 0.4093996330630034
+  saturation: 0.057409198954701424
+  rhythmicContrast: 0.04949197871610522
+purpose: []
